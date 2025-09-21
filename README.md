@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Hi, I’m Dipayan (or Danny)! 👋🏼
 
 I’m a **Computer Scientist specialised in XR and Computational Colour** by education and training. 
-My background bridges **colour science, AR/VR, psychophysics, and deep learning**, but I also enjoy experimenting creative tools such as 3D software.    
+My background bridges **colour science, AR/VR, psychophysics, and deep learning**, but I also enjoy experimenting with creative tools such as 3D software.    
 
 When I’m not running experiments, you’ll probably find me creative digital art, or travelling to discover new cultures, cuisines and art spaces.  
 
