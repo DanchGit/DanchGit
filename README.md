@@ -1,52 +1,63 @@
-<!--
-**DanchGit/DanchGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **Dipayan Chowdhury**
+## **XR | Computer Vision | Colour Science**
 
-Here are some ideas to get you started:
+I’m a **Computer Scientist specialising in XR, computational colour, and human perception**, with experience building and evaluating perception-based systems for AR/VR.  
+My experience lies at the intersection of **colour pipelines, psychophysics, machine learning and XR**, supported by hands-on development in **Unity, Python, MATLAB and Blender**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I’m Dipayan (or Danny)! 👋🏼
-
-I’m a **Computer Scientist specialised in XR and Computational Colour** by education and training. 
-My background bridges **colour science, AR/VR, psychophysics, and deep learning**, but I also enjoy experimenting with creative tools such as 3D software.    
-
-When I’m not running experiments, you’ll probably find me creative digital art, or travelling to discover new cultures, cuisines and art spaces.  
+I also bring an industry foundation as a **Data Analyst at Bain & Company**, where I built reproducible analytical pipelines and worked in agile teams.
 
 ---
 
-## 🚀 Technologies & Tools
-- XR Development with **Unity**  
-- ML/DL & Image Processing with **Python, PyTorch, MATLAB**  
-- Data Analysis & Visualisation (Pandas, SQL, Tableau, Alteryx)  
-- AR/VR Experiments & Psychophysics  
-- 3D Modelling & Visualisation with **Blender**  
+## **Core Skills & Technologies**
+
+### **XR**
+- Unity (C#), Blender, OpenXR workflows  
+- Rendering pipelines, foveation, colour calibration  
+- Worked on headsets such as the HoloLens 2 and the Varjo VR 3
+
+### **Computer Vision & ML**
+- Python, PyTorch, OpenCV  
+- Image processing, feature extraction, deep learning  
+- Model interpretability  
+
+### **Colour Science & Perception**
+- Colour calibration & characterisation  
+- Psychophysical experiment design and implementation  
+- Translucency perception
+
+### **Data Analysis**
+- Pandas, SQL, Tableau, Alteryx  
+- MATLAB   
 
 ---
 
-## 📚 Research & Projects
-- 🎨 **Exploring Colours in Optical See-Through AR** – Deep learning & psychophysics with HoloLens 2  
-- 👁️ **Foveated Rendering in VR** – Psychophysical evaluation of levels of foveation  
-- 🖼️ **AI-generated Art Detection** – 98% accuracy with curated datasets & model interpretability  
-- 🔬 **Translucency & Colour Perception** – Publications at *Eurographics* & *CIC*  
+## **Selected Projects (XR / Vision / Colour)**
 
+###  **Colour Characterisation for Optical See-Through AR (HoloLens 2)**  
+Masters thesis project. Designed and conducted experiments to benchmark colour accuracy in optical see-through AR.  
+Implemented characterisation pipelines, performed perceptual analysis, and trained deep learning models to improve robustness across lighting conditions, as well as background and observer differences.
+
+###  **Foveated Rendering in VR (Varjo)**  
+Implemented multiple levels of foveation and conducted a controlled psychophysical study to evaluate perceptual thresholds.  
+Analysed performance–quality tradeoffs for real-time XR rendering.
+
+###  **Detecting AI-Generated Art (DL + Fourier Analysis)**  
+Built a curated dataset of AI and human-generated artworks.  
+Implemented deep learning models using spatial and frequency-domain features, achieving **~98% accuracy** with emphasised model explainability.
+
+###  **Colour & Translucency Perception (Eurographics, CIC)**  
+Investigated and published 2 papers about how observers perceive colour differences in translucent 3D objects using psychophysics and ML analysis.  
 
 ---
 
-## 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/dipayanch)  
-- [Google Scholar](https://scholar.google.com/citations?user=DCkfhA0AAAAJ)  
-- [Email](mailto:dipayan.cho@gmail.com)  
+##  **A Bit More About Me**
 
+When I’m not analysing colour perception or building XR experiments, I enjoy creating digital art, exploring new cities, and learning languages.  
 
 ---
-<!--
-## 🏆 GitHub Stats
-![Dipayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanchGit&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanchGit&layout=compact&theme=radical)  >
+
+## 📫 **Contact**
+
+- **LinkedIn:** https://www.linkedin.com/in/dipayanch  
+- **Scholar:** https://scholar.google.com/citations?user=DCkfhA0AAAAJ  
+- **Email:** dipayan.cho@gmail.com
