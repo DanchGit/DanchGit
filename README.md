@@ -56,8 +56,8 @@ When I’m not analysing colour perception or building XR experiments, I enjoy c
 
 ---
 
-## 📫 **Contact**
+## **Contact**
 
-- **LinkedIn:** https://www.linkedin.com/in/dipayanch  
-- **Scholar:** https://scholar.google.com/citations?user=DCkfhA0AAAAJ  
-- **Email:** dipayan.cho@gmail.com
+- [**LinkedIn**](https://www.linkedin.com/in/dipayanch)  
+- [**Google Scholar**](https://scholar.google.com/citations?user=DCkfhA0AAAAJ)  
+- [**Email**](mailto:dipayan.cho@gmail.com)
