@@ -31,22 +31,27 @@ I also bring an industry foundation as a **Data Analyst at Bain & Company**, whe
 
 ---
 
-## **Selected Projects (XR / Vision / Colour)**
+## **Projects (XR / Vision / Colour)**
 
-###  **Colour Characterisation for Optical See-Through AR (HoloLens 2)**  
-Masters thesis project. Designed and conducted experiments to benchmark colour accuracy in optical see-through AR.  
-Implemented characterisation pipelines, performed perceptual analysis, and trained deep learning models to improve robustness across lighting conditions, as well as background and observer differences.
+###  [**Colour Characterisation for Optical See-Through AR (HoloLens 2)**](https://github.com/DanchGit/Colour-Characterisation-in-Optical-See-Through-Augmented-Reality)  
+[Masters thesis project.](https://nva.sikt.no/registration/0199c398ffe4-d4f24d85-e16d-4c7b-96dc-9c7ae75db93a) I designed and conducted experiments to benchmark colour accuracy in optical see-through AR using Unity. The headset used was the Microsoft HoloLens 2.  
+I implemented characterisation pipelines using MATLAB, and hardware such as a Spectroradiometer, performed perceptual analysis, and trained deep learning models on Python to improve robustness across lighting conditions, as well as background and observer differences.
 
-###  **Foveated Rendering in VR (Varjo)**  
-Implemented multiple levels of foveation and conducted a controlled psychophysical study to evaluate perceptual thresholds.  
-Analysed performance–quality tradeoffs for real-time XR rendering.
+### [**Unity XR Display Pre-Distortion for Distortion Correction**](https://github.com/DanchGit/Unity-XR-Display-Distortion-Correction-Demo)
+I developed Unity prototypes to demonstrate distortion correction in XR systems (specifically barrel/pincushion distortions and chromatic aberration). This included writing shaders on Unity. 
 
-###  **Detecting AI-Generated Art (DL + Fourier Analysis)**  
-Built a curated dataset of AI and human-generated artworks.  
-Implemented deep learning models using spatial and frequency-domain features, achieving **~98% accuracy** with emphasised model explainability.
+###  [**Foveated Rendering in VR (Varjo)**](https://github.com/DanchGit/Impact-of-Foveation-on-Visual-Experience-in-Virtual-Reality/blob/main/Dipayan%20Chowdhury_Assessing%20the%20Impact%20of%20Foveation%20on%20Visual%20Experience%20in%20Virtual%20Reality.pdf)  
+I implemented multiple levels of foveation and conducted a controlled psychophysical study to evaluate perceptual thresholds using Unity for the varjo VR3 headset as a coursework project.  
+I analysed performance–quality tradeoffs for real-time XR rendering.
 
-###  **Colour & Translucency Perception (Eurographics, CIC)**  
-Investigated and published 2 papers about how observers perceive colour differences in translucent 3D objects using psychophysics and ML analysis.  
+###  [**Detecting AI-Generated Art (DL + Fourier Analysis)**](https://github.com/poirot-en-bardo/ai-art-detection)  
+I built a curated dataset of AI and human-generated artworks.  
+I also implemented deep learning models on PyTorch using spatial and frequency-domain features, achieving **~98% accuracy** with emphasised model explainability.
+
+###  [**Colour & Translucency Perception (Eurographics, CIC)**](https://scholar.google.com/citations?hl=en&user=DCkfhA0AAAAJ)  
+I investigated and published 2 papers about how observers perceive colour differences in translucent 3D objects using psychophysics and ML analysis. The softwares used were Mitsuba renderer, Python, MATLAB and QuickEval.
+
+
 
 ---
 
