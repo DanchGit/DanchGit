@@ -66,3 +66,4 @@ When I’m not analysing colour perception or building XR experiments, I enjoy c
 - [**LinkedIn**](https://www.linkedin.com/in/dipayanch)  
 - [**Google Scholar**](https://scholar.google.com/citations?user=DCkfhA0AAAAJ)  
 - [**Email**](mailto:dipayan.cho@gmail.com)
+- [**ArtStation**](https://www.artstation.com/zepharus_cg)
