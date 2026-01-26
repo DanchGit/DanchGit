@@ -8,6 +8,26 @@ I also bring an industry foundation as a **Data Analyst at Bain & Company**, whe
 
 ---
 
+## **Projects (XR / Vision / Colour)**
+
+- ###  [**Colour Characterisation for Optical See-Through AR (HoloLens 2)**](https://github.com/DanchGit/Colour-Characterisation-in-Optical-See-Through-Augmented-Reality)  
+
+- ### [**Unity XR Display Pre-Distortion for Distortion Correction**](https://github.com/DanchGit/Unity-XR-Display-Distortion-Correction-Demo)
+
+- ###  [**Foveated Rendering in VR (Varjo)**](https://github.com/DanchGit/VRIQA)  
+
+- ###  [**Detecting AI-Generated Art (DL + Fourier Analysis)**](https://github.com/poirot-en-bardo/ai-art-detection)  
+
+- ###  [**Colour & Translucency Perception (Eurographics, CIC)**](https://scholar.google.com/citations?hl=en&user=DCkfhA0AAAAJ)  
+
+- ### [**Pyrosafe – Oculus Quest XR Training Game**](https://github.com/mr-talukdar/Pyrosafe-Game)
+
+- ### [**Exploring DICOM Volume Rendering in Unity**](https://github.com/DanchGit/Exploring_Unity_DICOM_VolumeRendering?tab=readme-ov-file#unity-dicom-volume-rendering)
+
+- ### [**Realistic Camera Shake Animation - Blender**](https://github.com/DanchGit/Realistic-Camera-Shake)
+
+---
+
 ## **Core Skills & Technologies**
 
 ### **XR**
@@ -28,27 +48,6 @@ I also bring an industry foundation as a **Data Analyst at Bain & Company**, whe
 ### **Data Analysis**
 - Pandas, SQL, Tableau, Alteryx  
 - MATLAB   
-
----
-
-## **Projects (XR / Vision / Colour)**
-
-###  [**Colour Characterisation for Optical See-Through AR (HoloLens 2)**](https://github.com/DanchGit/Colour-Characterisation-in-Optical-See-Through-Augmented-Reality)  
-[Masters thesis project.](https://nva.sikt.no/registration/0199c398ffe4-d4f24d85-e16d-4c7b-96dc-9c7ae75db93a) 
-
-### [**Unity XR Display Pre-Distortion for Distortion Correction**](https://github.com/DanchGit/Unity-XR-Display-Distortion-Correction-Demo)
-
-###  [**Foveated Rendering in VR (Varjo)**](https://github.com/DanchGit/VRIQA)  
-
-###  [**Detecting AI-Generated Art (DL + Fourier Analysis)**](https://github.com/poirot-en-bardo/ai-art-detection)  
-
-###  [**Colour & Translucency Perception (Eurographics, CIC)**](https://scholar.google.com/citations?hl=en&user=DCkfhA0AAAAJ)  
-
-### [**Pyrosafe – Oculus Quest XR Training Game**](https://github.com/mr-talukdar/Pyrosafe-Game)
-
-### [**Exploring DICOM Volume Rendering in Unity**](https://github.com/DanchGit/Exploring_Unity_DICOM_VolumeRendering?tab=readme-ov-file#unity-dicom-volume-rendering)
-
-### [**Realistic Camera Shake Animation - Blender**](https://github.com/DanchGit/Realistic-Camera-Shake)
 
 ---
 
