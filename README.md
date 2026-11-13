@@ -1,7 +1,8 @@
 # **Dipayan Chowdhury**
-## **XR | Computer Vision | Colour Science**
+## **XR | Cultural Heritage | Colour Science**
 
-I’m a **Computer Scientist specialising in XR, computational colour, and human perception**, with experience building and evaluating perception-based systems for AR/VR.  
+I’m a research associate at RWTH Aachen, and a part of the MSCA Doctoral Network called UNVEIL. My research revolves around immersive visualization for cultural heritage. 
+My background is in **Computer Science, specialising in XR, computational colour, and human perception**, with experience building and evaluating perception-based systems for AR/VR.  
 My experience lies at the intersection of **colour pipelines, psychophysics, machine learning and XR**, supported by hands-on development in **Unity, Python, MATLAB and Blender**.
 
 I also bring an industry foundation as a **Data Analyst at Bain & Company**, where I built reproducible analytical pipelines and worked in agile teams.
